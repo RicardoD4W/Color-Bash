@@ -4,8 +4,8 @@
 
 
 
-# HOW TO INSTALL
-<p>All you need is dowload 'colores.sh' and save in a save route and bash scripts   <img width="100px" heigth="100px" src="./bash.png"/> </p>
+# HOW TO INSTALL <img width="100px" heigth="100px" src="./bash.png"/>
+<p>All you need is dowload 'colores.sh' and save in a save route and bash scripts    </p>
 
 
 <br><br>
