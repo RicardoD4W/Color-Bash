@@ -1,6 +1,6 @@
 ||
 |--|--:|
-| <img src="./bash.png"/> |
+||| <img src="./bash.png"/> |
 
 # HOW TO INSTALL
 <p>All you need is dowload 'colores.sh' and save in a save route and bash scripts</p>
