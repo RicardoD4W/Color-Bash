@@ -1,4 +1,4 @@
-<table style="width: 100%; text-align: left;">
+<table style="width: 100%; text-align: right;">
   <tr>
     <td style="width: 33%;">  </td>
     <td style="width: 33%;">  </td>
