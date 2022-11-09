@@ -1,5 +1,5 @@
 <center>
-<img src="./bash.png" width="50px" heigth="50px"/>
+<img src="./bash.png" width="250px" heigth="250px"/>
 </center>
 
 
