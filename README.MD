@@ -1,6 +1,10 @@
-||
-|--|--:|
-||| <img src="./bash.png"/> |
+<table style="width: 100%; text-align: left;">
+  <tr>
+    <td style="width: 33%;"> <img src="./bash.png"/> </td>
+  </tr>
+</table>
+
+
 
 # HOW TO INSTALL
 <p>All you need is dowload 'colores.sh' and save in a save route and bash scripts</p>
