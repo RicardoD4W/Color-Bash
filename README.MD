@@ -1,15 +1,11 @@
-<table style="width: 100%; text-align: right;">
-  <tr>
-    <td style="width: 33%;">  </td>
-    <td style="width: 33%;">  </td>
-    <td style="width: 33%;"> <img width="100px" heigth="100px" src="./bash.png"/> </td>
-  </tr>
-</table>
+
+ 
+
 
 
 
 # HOW TO INSTALL
-<p>All you need is dowload 'colores.sh' and save in a save route and bash scripts</p>
+<p>All you need is dowload 'colores.sh' and save in a save route and bash scripts   <img width="100px" heigth="100px" src="./bash.png"/> </p>
 
 
 <br><br>
