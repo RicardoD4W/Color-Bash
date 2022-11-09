@@ -1,8 +1,13 @@
+<center>
+<img src="./bash.png" width="50px" heigth="50px"/>
+</center>
+
+
 # HOW TO INSTALL
 <p>All you need is dowload 'colores.sh' and save in a save route and bash scripts</p>
 
 
-<br><br><br>
+<br><br>
 
 
 ## HOW TO USE
