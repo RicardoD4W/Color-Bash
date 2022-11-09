@@ -1,6 +1,6 @@
 <table style="width: 100%; text-align: left;">
   <tr>
-    <td style="width: 33%;"> <img width="100px" heigth="100px" src="./bash.png"/> </td>
+    <td style="width: 100%;"> <img width="100px" heigth="100px" src="./bash.png"/> </td>
   </tr>
 </table>
 
