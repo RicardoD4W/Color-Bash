@@ -23,6 +23,11 @@
 
 <br><br>
 
+### VARIABLES
+<p>To see avalible variables 'cat' colores.sh</p>
+
+<br><br>
+
 ### EXAMPLE USE
 * In others Scripts
 
