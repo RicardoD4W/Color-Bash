@@ -1,5 +1,5 @@
 ||
-| --  |--:|
+|--|--:|
 | <img src="./bash.png"/> |
 
 # HOW TO INSTALL
