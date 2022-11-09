@@ -24,7 +24,7 @@
 <br><br>
 
 ### VARIABLES
-<p>To see avalible variables 'cat' colores.sh</p>
+<p>To see avalible variables '$ cat' colores.sh</p>
 
 <br><br>
 
