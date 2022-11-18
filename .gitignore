@@ -6,6 +6,8 @@
 /bazel-out
 
 #env local
+/tomcatStart.sh
+/tomcatStop.sh
 /GitHub-Repositories
 /Visual Studio
 /Windows---Linux
